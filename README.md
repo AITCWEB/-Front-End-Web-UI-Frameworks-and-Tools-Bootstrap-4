@@ -6,4 +6,4 @@ course 1 of the Full Stack Web and Multiplatform Mobile App Development speciali
 
 - Front-End Web UI Frameworks: Bootstrap.
 - CSS preprocessors: Sass, Less.
-- Tools: npm scripts, Gulp, Grunt.
+- Tools: Git, Node.js, NPM, npm scripts, Gulp, Grunt( for automating frequently performed tasks in web development).
